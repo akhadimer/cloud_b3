@@ -1,7 +1,7 @@
 # TP1 Prise en main de Docker
-Simon Laborde
-Hugo Marques
-Thomas Dumont
+Simon Laborde \n
+Hugo Marques \n
+Thomas Dumont \n
 
 ## I. Prise en main
 ### 1. Lancer des conteneurs
